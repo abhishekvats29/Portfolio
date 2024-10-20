@@ -1,0 +1,47 @@
+.portfolio {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .portfolio-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .portfolio-item {
+    flex: 1 1 200px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+
+    border: 2px solid gold;
+    padding: 3rem; /* 50px */
+    margin: 3rem auto; /* 20px */
+    color: white;
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    box-shadow: 0 0 20px wheat;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    min-width: 20VW;
+    
+  }
+  
+
+  /*project style*/
+  h4 {
+    color: gold;
+    text-align: center;
+    font-size: larger;
+    margin-top: 0.2vw;
+  }
+  h3 {
+    color: white;
+    font-size: xx-large;
+  }

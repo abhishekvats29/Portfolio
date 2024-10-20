@@ -1,0 +1,40 @@
+.contact {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .contact form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  .contact input,
+  .contact textarea {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .contact button {
+    padding: 10px;
+    border: none;
+    background-color: gold;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .contact button:hover {
+    background-color: navy;
+  }
+
+  .info {
+    color: white;
+    margin-top: 3vw;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+  }
+  
